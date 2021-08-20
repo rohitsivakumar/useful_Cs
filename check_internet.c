@@ -1,3 +1,9 @@
+/*******************************************************************************
+ *  Author: Rohit Sivakumar
+ *  Version: v1.0 20/08/2021
+ *  Description: This program is a snippet to be used on gateways to check for 
+                 presence of internet connection
+ *******************************************************************************/
 
 #include <stdio.h>
 #include <netdb.h>
